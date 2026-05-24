@@ -1,0 +1,7 @@
+interface:
+  display_name: "Remote Tmux Coding Skill"
+  short_description: "Control tmux-backed agents with SSH and FTP workflows"
+  default_prompt: "Use $remote-tmux-coding-skill to manage tmux-backed remote agents, SSH access, and FTP file transfers."
+
+policy:
+  allow_implicit_invocation: true
